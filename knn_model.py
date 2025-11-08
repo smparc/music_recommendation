@@ -1,3 +1,5 @@
+# This file creates the K-Nearest Neighbors recommender
+
 from sklearn.neighbors import NearestNeighbors
 from sklearn.preprocessing import TfidfVectorizer
 import numpy as np
